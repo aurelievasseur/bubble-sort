@@ -1,3 +1,5 @@
- This project consist in developping a short bubble sort algorithm. 
+ This project consists in developping a short bubble sort algorithm. 
 
- 
+Tools : 
+Visual Studio Code
+Ruby
